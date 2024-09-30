@@ -1,4 +1,6 @@
-[# Projet 1 : Analyse Statistique des Buts dans le Football International](https://github.com/y-sm-s/Analyse-Statistique-des-Buts-dans-le-Football-International/blob/64864821c9931e4a58b488435ad38fb2dee39c0a/soccer-pitch.jpg)
+<img src="https://github.com/y-sm-s/Analyse-Statistique-des-Buts-dans-le-Football-International/blob/64864821c9931e4a58b488435ad38fb2dee39c0a/soccer-pitch.jpg" />
+
+# Projet 1 : Analyse Statistique des Buts dans le Football International
 
 ## Description
 
